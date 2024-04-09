@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartinAraka
 - 👀 I’m interested in exploring the world through books!
-- 🌱 I’m currently learning Software programming.(HTML, CSS, JavaScript) React.
-- 💞️ I’m looking to collaborate on any interesting projects in programming.
+- 🌱 I’m currently learning Software programming.(Web infrastructure, Binary trees)
+- 💞️ 
 - 📫 How to reach me arakamartin@gmail.com
 -                      
 
