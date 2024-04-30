@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinAraka
 - 👀 I’m interested in exploring the world through books!
-- 🌱 I’m currently learning Software programming.(Web infrastructure, Binary trees)
+- 🌱 I’m currently learning Software programming.(Object relational mapping)
 - 💞️ 
 - 📫 How to reach me arakamartin@gmail.com
 -                      
